@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="text_green">#407020</color>
+    <color name="text_pink">#702040</color>
+    <color name="text_silver">#888</color>
+    <color name="text_blue">#224488</color>
+
+    <color name="yellow">#fff9bb</color>
+    
+    <color name="red">#ff0000</color>
+
+    <color name="header_bg">#000</color>
+    <color name="navigation_bg">#e0e0e0</color>
+    <color name="list_bg">#fff</color>
+    <color name="splash_bg">#015daa</color>
+
+    <color name="frame_color">#888</color>
+    
+    <color name="Blue">#0000FF</color>
+</resources>

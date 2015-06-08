@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="ru">
+
+    <string-array name="menu_items">
+        <item>@string/nd_menu_active</item>
+        <item>@string/nd_menu_hist</item>
+        <item>@string/settings</item>
+    </string-array>
+    <string-array name="menu_icons">
+        <item>@drawable/menu_trade_names</item>
+        <item>@drawable/menu_act_matters</item>
+        <item>@drawable/menu_settings</item>
+    </string-array>
+
+</resources>

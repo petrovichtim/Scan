@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="ru">
+
+    <string name="app_name">Сканер</string>
+    <string name="nd_menu_active">Активная сеть</string>
+    <string name="nd_menu_hist">История</string>
+    <string name="settings">Настройки</string>
+    <string name="ns_menu_open">Открыть</string>
+    <string name="ns_menu_close">Закрыть</string>
+
+    <string name="sсan">Сканировать</string>
+    <string name="stop">Остановить</string>
+
+    <string name="wifi_enabled">Wifi is enabled</string>
+    <string name="wifi_enabling">Wifi is enabling</string>
+    <string name="wifi_disabling">Wifi is disabling</string>
+    <string name="wifi_disabled">Wifi is disabled</string>
+    <string name="wifi_scanning">Wifi is scanning</string>
+    <string name="wifi_associating">Wifi is associating with %s</string>
+    <string name="wifi_dhcp">Obtaining IP address from %s</string>
+    <string name="wifi_unknown">Wifi state unknown</string>
+
+    <string name="net_ip">IP: %1$s/%2$d (%3$s)</string>
+    <string name="net_carrier">CARRIER: %s</string>
+    <string name="net_ssid">SSID: %s</string>
+    <string name="net_mode">MODE: %s</string>
+    <string name="net_mode_wifi">WiFi (%1$s %2$s)</string>
+    <string name="net_mode_mobile">Mobile</string>
+    <string name="net_mode_eth">Ethernet (Not supported yet)</string>
+    <string name="net_mode_unknown">Unknown</string>
+</resources>
